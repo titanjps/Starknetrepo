@@ -33,4 +33,4 @@ async function autoWithdraw() {
 }
 
 // Set up an interval to run the autoWithdraw function every 5 minutes (adjust as needed).
-setInterval(autoWithdraw, 5 * 60 * 1000);
+setInterval(autoWithdraw, 1 * 60 * 1000);
