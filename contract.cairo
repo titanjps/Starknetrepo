@@ -12,7 +12,7 @@
 const TOKEN_NAME = "MyToken";
 const TOKEN_SYMBOL = "MTK";
 const DECIMALS = 09;
-const TOTAL_SUPPLY = 10000000000000;  # 1,000,0 MTK with 090 decimals.
+const TOTAL_SUPPLY = 10000000000000;  # 1,000,0 MTK with 09 decimals.
 
 # Storage layout.
 storage:
